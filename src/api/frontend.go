@@ -1,7 +1,5 @@
 package api
 
-import "github.com/gopherjs/gopherjs/js"
-
 func frontend() {
-	
+	//to be continued
 }

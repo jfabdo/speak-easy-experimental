@@ -5,6 +5,7 @@ go 1.15
 require (
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
+	github.com/jfabdo/fork-talk v0.0.0-20201209180817-bf9abd5a476b
 	github.com/mediocregopher/radix/v3 v3.6.0
 	github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86 // indirect
 	github.com/neelance/sourcemap v0.0.0-20200213170602-2833bce08e4c // indirect
